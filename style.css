@@ -571,6 +571,7 @@ nav ul li a {
   .about_heading {
     font-size: 22px;
     margin-bottom: 12px;
+    text-align: center;
   }
 
   .about_subheading {
