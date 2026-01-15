@@ -51,6 +51,7 @@ header {
   transform: translateX(-50%);
   z-index: 10;
   background-color: #e0e0e0;
+  border-bottom: #999999 1px solid;
 }
 
 /* Nav Logo */
@@ -175,8 +176,10 @@ nav ul li a {
   font-family: "Merriweather", serif;
   font-size: 48px;
   color: #085c52;
-  animation: hero_color_heading_animation 0.3s 0.2s ease-in;
+  animation: hero_color_heading_animation 0.4s 0.2s ease-in;
 }
+
+/* Hero Color Heading Animation */
 
 @keyframes hero_color_heading_animation {
   0% {
