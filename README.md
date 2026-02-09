@@ -1,7 +1,7 @@
 # Xperts
 ## The Future of Manufacturing with Latest Technology
 
-A modern, clean, and professional landing page built using **HTML5 and CSS3**. This project demonstrates a real-world industrial website interface focused on manufacturing solutions, modern technology, and business efficiency.
+A modern, clean, and professional landing page built using **HTML5, CSS3 and JS**. This project demonstrates a real-world industrial website interface focused on manufacturing solutions, modern technology, and business efficiency.
 
 ---
 
