@@ -176,18 +176,6 @@ nav ul li a {
   font-family: "Merriweather", serif;
   font-size: 48px;
   color: #085c52;
-  animation: hero_color_heading_animation 0.4s 0.2s ease-in;
-}
-
-/* Hero Color Heading Animation */
-
-@keyframes hero_color_heading_animation {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
 }
 
 /* Hero Details */
@@ -519,8 +507,8 @@ nav ul li a {
 .about_content_encloser:hover {
   cursor: pointer;
   scale: 1.01;
-  transition: all 0.2s ease;
-  box-shadow: #6d6d6d 2px 2px 40px;
+  transition: all 0.1s ease;
+  /* box-shadow: #6d6d6d 1px 1px 10px; */
 }
 
 /* About Box */
@@ -533,7 +521,7 @@ nav ul li a {
   display: flex;
   justify-content: space-between;
   flex-direction: column;
-  box-shadow: #6d6d6d 1px 1px 15px;
+  box-shadow: #6d6d6d 1px 1px 5px;
 }
 
 /* About Box Image Container */
