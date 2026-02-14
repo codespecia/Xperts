@@ -131,7 +131,7 @@ This section provides a real-time preview of the project for quick access and de
 
 Below are the visual previews of the project interface showcasing the layout, design, and sections.
 
-![Hero Section](https://ik.imagekit.io/codespecia/Xperts/hero_section_md.png)
+![Hero Section](https://res.cloudinary.com/codespecia/image/upload/hero_section_md.png)
 
 ---
 
